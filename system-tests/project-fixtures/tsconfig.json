@@ -1,8 +1,0 @@
-{
-  "compilerOptions": {
-    "rootDir": ".",
-    "strict":true,
-    "noEmit": true,
-    "types": ["cypress"]
-  }
-}

@@ -1,3 +1,0 @@
-import './dependency'
-
-const bar = () => {}
